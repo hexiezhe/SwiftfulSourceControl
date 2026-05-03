@@ -39,6 +39,7 @@ struct HomeView: View {
         }
         
         .background(Color.green)
+        .padding(20)
     }
 }
 
