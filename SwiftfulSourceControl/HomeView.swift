@@ -5,6 +5,26 @@
 //  Created by woei chen on 04/05/2026.
 //
 
+/*
+ COMMIT MESSAGES
+ 
+ NEW FEATURE:
+ [Feature] Description of the feature
+ 
+ BUG IN PRODUCTION:
+ [Patch] Description in patch
+ 
+ BUG NOT IN PRODUCTION
+ 
+ MUNDANE TASKS:
+ [Clean] Description of changes
+ 
+ RELEASE:
+ [Release] Description of release
+ */
+
+
+
 import SwiftUI
 
 struct HomeView: View {
@@ -17,6 +37,8 @@ struct HomeView: View {
         Button("Beast Mode Button") {
             
         }
+        
+        .background(Color.green)
     }
 }
 
