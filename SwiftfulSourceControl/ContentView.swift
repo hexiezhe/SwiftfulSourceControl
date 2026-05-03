@@ -15,6 +15,10 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Swiftful Thinking Bootcamp - GitControl Clone Version Testing")
+            
+            Button("click me") {
+                
+            }
         }
         .padding()
     }
