@@ -55,7 +55,7 @@ struct HomeView: View {
             
         }
         
-        Text("Subscribe Now WooHoo!!!")
+        Text("Subscribe Now WooHoo ndnndndnnd!!!")
             .font(.headline)
             
         .background(Color.green)
