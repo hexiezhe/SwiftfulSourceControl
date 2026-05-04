@@ -38,8 +38,9 @@ struct HomeView: View {
             
         }
         
-        Text("Screen 202020022")
-        
+        Text("Subscribe Now WooHoo!!!")
+            .font(.headline)
+            
         .background(Color.green)
         .padding(20)
     }
