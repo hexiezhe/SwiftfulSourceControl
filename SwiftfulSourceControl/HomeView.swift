@@ -29,6 +29,11 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
+        
+        Button("Beast Mode Button 1") {
+            
+        }
+        
         Text("Screen 2")
         
         Text("Screen 2")
