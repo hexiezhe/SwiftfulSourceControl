@@ -23,6 +23,14 @@
  [Release] Description of release
  */
 
+/*
+ Clone = copying the repo locally
+ Commit  =  Save ("checkpoint") on our current branch
+ Stage = prepare changes for a commit
+ Stash = Save changes dfor later
+ Push =  Send local commit to repo
+ Pull = Fetch remote repo to local
+ */
 
 
 import SwiftUI
