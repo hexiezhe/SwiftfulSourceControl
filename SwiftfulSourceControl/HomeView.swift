@@ -42,7 +42,7 @@ struct HomeView: View {
             
         }
         
-        Button("Beast Mode Button 1") {
+        Button("Super Mode Button 1") {
             
         }
         
