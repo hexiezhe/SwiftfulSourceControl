@@ -19,6 +19,8 @@ struct ContentView: View {
             Button("click me") {
                 
             }
+            
+            Text("This is to test pull from Git")
         }
         .padding()
     }
