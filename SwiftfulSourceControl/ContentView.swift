@@ -24,6 +24,10 @@ struct ContentView: View {
                 
             }
             
+            Button("Follow Now") {
+                
+            }
+            
             Text("This is to test pull from Git")
         }
         .padding()
