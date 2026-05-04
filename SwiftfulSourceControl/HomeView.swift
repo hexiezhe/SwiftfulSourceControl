@@ -38,6 +38,8 @@ struct HomeView: View {
             
         }
         
+        Text("Screen 202020022")
+        
         .background(Color.green)
         .padding(20)
     }
